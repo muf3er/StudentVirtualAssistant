@@ -1,0 +1,37 @@
+{
+  "id": "5845d424-c83e-4e84-94d8-f26a226b72e8",
+  "parentId": "601bbeec-e8aa-4ffb-a722-d7d878776138",
+  "rootParentId": "601bbeec-e8aa-4ffb-a722-d7d878776138",
+  "name": "cgpa - yes",
+  "auto": true,
+  "contexts": [
+    "cgpa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cgpa.cgpa-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Your cgpa is 3.6 for the academic level. If you would like to request for transcripts, please type in \u0027transcripts\u0027 below.",
+            "Your cgpa is 2.95 for the academic level . If you would like to request for transcripts, pease type in \u0027transcripts\u0027 below.",
+            "Oops! Unfortunately this request cant be forwarded since your account is blocked due to outstanding payments. For further details on this, please contact your program leader or visit the Level 4 Admin Office."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530538324,
+  "fallbackIntent": false,
+  "events": []
+}

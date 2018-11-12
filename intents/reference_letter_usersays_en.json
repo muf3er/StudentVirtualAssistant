@@ -1,0 +1,218 @@
+[
+  {
+    "id": "74f6b119-a087-486c-b148-03095887b65a",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "rapid kl",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622875
+  },
+  {
+    "id": "361642ab-f787-4cd5-a38c-c5f8424e0378",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "opening bank account",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622875
+  },
+  {
+    "id": "02968aa7-2aa0-45c7-a578-0fbe6c4d15f5",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "visa related",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622875
+  },
+  {
+    "id": "8170807f-a2c2-4431-871a-21e4f8f99b81",
+    "data": [
+      {
+        "text": "I want reference letter for ",
+        "userDefined": false
+      },
+      {
+        "text": "visa related",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622615
+  },
+  {
+    "id": "2d1af372-028c-47c1-ac7c-7cf7cfdda689",
+    "data": [
+      {
+        "text": "I want reference ",
+        "userDefined": false
+      },
+      {
+        "text": "letter for Immigration",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "5b8daec7-f5ed-4fe7-988f-ba2b8a3c2d43",
+    "data": [
+      {
+        "text": "I want reference letter for ",
+        "userDefined": false
+      },
+      {
+        "text": "RapidKL",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "9dbc4730-c3fb-4d7e-be8f-1e4f83e28afe",
+    "data": [
+      {
+        "text": "I want reference letter for ",
+        "userDefined": false
+      },
+      {
+        "text": "opening bank account",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "b3a5832e-f146-4c3f-995c-94271c736f46",
+    "data": [
+      {
+        "text": "I want to request reference letter for ",
+        "userDefined": false
+      },
+      {
+        "text": "opening bank account",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "e13f3108-932f-4cdb-979c-c442ab0bbef6",
+    "data": [
+      {
+        "text": "I want to request reference letter for ",
+        "userDefined": false
+      },
+      {
+        "text": "rapid kl",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "7b32a85e-36f3-43c5-be17-9fb5253887fd",
+    "data": [
+      {
+        "text": "I want to request reference ",
+        "userDefined": false
+      },
+      {
+        "text": "letter for immigration",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "6a55f4d3-8c2e-4858-a6e7-10aca67264ed",
+    "data": [
+      {
+        "text": "request reference letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "c89d2400-5428-4083-9137-2541a743442f",
+    "data": [
+      {
+        "text": "reference letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530622559
+  },
+  {
+    "id": "f857cb5e-05ba-4efe-85a8-b724742c147a",
+    "data": [
+      {
+        "text": "I want to request for reference letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530104740
+  }
+]

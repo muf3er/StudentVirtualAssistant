@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c9d1cf60-be99-4ea9-b613-b98fa203207f",
+    "data": [
+      {
+        "text": "Intake ",
+        "userDefined": false
+      },
+      {
+        "text": "uc1f1711se",
+        "alias": "intakecode",
+        "meta": "@intakecode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530543732
+  },
+  {
+    "id": "e54fae0f-a570-4884-a653-ecbe9f265b74",
+    "data": [
+      {
+        "text": "For intake ",
+        "userDefined": false
+      },
+      {
+        "text": "UC3F1711SE",
+        "alias": "intakecode",
+        "meta": "@intakecode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530534965
+  },
+  {
+    "id": "88be0d29-c169-4f93-b8c9-14f0f5863855",
+    "data": [
+      {
+        "text": "Transcripts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530534965
+  },
+  {
+    "id": "e5365fb2-067a-4e46-81b1-8aa291899790",
+    "data": [
+      {
+        "text": "I want to get my transcripts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530534965
+  },
+  {
+    "id": "c5290b7f-3cc2-4753-8fa5-b6b50d32b900",
+    "data": [
+      {
+        "text": "I want to see my scores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530534965
+  },
+  {
+    "id": "3e8f328b-a153-42e6-8645-9d4cf033e3a2",
+    "data": [
+      {
+        "text": "I want to see my transcripts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530543732
+  }
+]

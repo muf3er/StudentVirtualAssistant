@@ -1,0 +1,87 @@
+[
+  {
+    "id": "3bc7cb37-6f87-4aaf-b448-e6e500ea05a9",
+    "data": [
+      {
+        "text": "CT107-2-1",
+        "alias": "Module_code",
+        "meta": "@Module_code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550358
+  },
+  {
+    "id": "77ac4e9b-9fbc-402e-8033-138018f9a681",
+    "data": [
+      {
+        "text": "Module",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " code is ",
+        "userDefined": false
+      },
+      {
+        "text": "CT017-1-1",
+        "alias": "Module_code",
+        "meta": "@Module_code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550358
+  },
+  {
+    "id": "09980c58-785a-499f-9902-4630c7e53277",
+    "data": [
+      {
+        "text": "register for my class test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550358
+  },
+  {
+    "id": "c59ee5db-ffe6-42ef-ae17-325396c3d771",
+    "data": [
+      {
+        "text": "class test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550358
+  },
+  {
+    "id": "4618e5e7-78ab-4240-a786-9afa0f6b0682",
+    "data": [
+      {
+        "text": "register class test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550358
+  },
+  {
+    "id": "e4aecbe3-7d8a-4461-8c4f-403b0bdd2a32",
+    "data": [
+      {
+        "text": "I want to register for my class test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550358
+  }
+]

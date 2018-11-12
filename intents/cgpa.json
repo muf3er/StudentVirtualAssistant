@@ -1,0 +1,53 @@
+{
+  "id": "601bbeec-e8aa-4ffb-a722-d7d878776138",
+  "name": "cgpa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cgpa-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2c156cac-42c1-4fc9-9580-6edb28e48ea9",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please mention for which academic level?"
+            },
+            {
+              "lang": "en",
+              "value": "Cgpa of which level you want to see?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are you sure you want to see the cgpa for level $number-integer ."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530533592,
+  "fallbackIntent": false,
+  "events": []
+}

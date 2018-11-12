@@ -1,0 +1,29 @@
+{
+  "id": "4c3d0b83-3709-4d8a-b699-c241a0d090eb",
+  "name": "about_admin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.about",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The APU Administration Office is located at\nLevel 4, APU New Campus, Technology Park Malaysia, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur.\nThe operating hours of the Level 4 Admin Office are as below; \n Monday - Thursday: \n 8:30am - 8pm\n Friday: 8:30am - 7:30pm.\n The Level 4 Admin Office can be contacted via telephone or via email. \n The general line of the Admin Office is 0389925250.\n The Assignment Submission Counter abides by the operating hours of the Level 4 Admin Office.\n  Weekdays: 08:30 AM - 7 pm."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530624731,
+  "fallbackIntent": false,
+  "events": []
+}

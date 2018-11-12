@@ -1,0 +1,40 @@
+{
+  "id": "6b301f56-65a9-4b37-96de-778c3b6e913b",
+  "name": "reference_letter - custom",
+  "auto": true,
+  "contexts": [
+    "letter-purpose"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reference_letter.reference_letter-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d42fae9-4446-479e-971f-2107a60b9bd9",
+          "required": false,
+          "dataType": "@referencetype",
+          "name": "referencetype",
+          "value": "$referencetype",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Awesome! Your request have been forwarded to the admin service. Please wait for 2 working days to receive your reference letter to $referencetype in your university mailbox."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530623229,
+  "fallbackIntent": false,
+  "events": []
+}

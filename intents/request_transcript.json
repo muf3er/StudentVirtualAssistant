@@ -1,0 +1,46 @@
+{
+  "id": "d26de6dd-d0fb-4a8d-ad91-fbfce62da905",
+  "name": "request_transcript",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a05fd882-4a41-4015-ab30-f500eed00f18",
+          "required": true,
+          "dataType": "@intakecode",
+          "name": "intakecode",
+          "value": "$intakecode",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please type in your intake code for which the transcript is requested."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Your request has been forwarded to admin office, please wait for 1 working day to get your official transcript to your university mailbox (tp******@mail.apu.edu.my).",
+            "Oops! Unfortunately this request cant be forwarded since your account is blocked due to outstanding payments. For further details on how to request for transcripts, please contact your program leader or visit the Level 4 Admin Office."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530543732,
+  "fallbackIntent": false,
+  "events": []
+}

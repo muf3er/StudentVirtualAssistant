@@ -1,0 +1,60 @@
+{
+  "id": "9a76e234-0a75-4e4f-8f8d-2e9e46c6078e",
+  "name": "register-classtest",
+  "auto": true,
+  "contexts": [
+    "classtest-register"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "classtest.classtest-custom",
+      "affectedContexts": [
+        {
+          "name": "classtest-register",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8ca6dfb9-6eb2-44dc-993c-bdf0a74fea71",
+          "required": true,
+          "dataType": "@confirmation",
+          "name": "confirmation",
+          "value": "$confirmation",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Are you sure you want to register for the module CT017-3-2 on 21 Aug 2018. Please mind that if you register and does not make it to the exam, its considered absent on the test and will be given a fail credit."
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "c07e340b-bbb9-442d-9fd7-e01efe388e9c",
+          "required": false,
+          "dataType": "@Module_code",
+          "name": "Modulecode",
+          "value": "#classtest-register.Module_code",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your request has been proceeded. Please wait for your confirmation email in your university mail and make the payment at the cashier before the exam."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530633785,
+  "fallbackIntent": false,
+  "events": []
+}

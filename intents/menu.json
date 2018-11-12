@@ -1,0 +1,35 @@
+{
+  "id": "f56407ae-81ff-4a04-99e7-a1b7ee4c865b",
+  "name": "menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.menulist",
+      "affectedContexts": [
+        {
+          "name": "menu-select",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This are the list of services I can do for you :-\n\n1.View CGPA\n2.Register Optional Modules\n3.Request Transcripts\n4.Register Class Test\n5.Request Reference Letter\n6.About Admin Department"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530623767,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "8267c1c8-060e-4351-a409-f59e8625c15b",
+  "name": "optional_module",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "optional_module-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "16c50115-4a29-45de-83cd-952985fc542b",
+          "required": true,
+          "dataType": "@optional_module",
+          "name": "optional_module",
+          "value": "$optional_module",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me the optional module you want to choose from this\nHCIAU (Human Computer Interaction)\nSAAD (System Analaysi and Design)\nWEBDM (Web Development)"
+            },
+            {
+              "lang": "en",
+              "value": "tell me the module name you want to choose from this\nHCIAU (Human Computer Interaction)\nSAAD (System Analaysi and Design)\nWEBDM (Web Development)"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "574d0024-3e6f-4216-b79f-d4d8b9d8a1ca",
+          "required": true,
+          "dataType": "@confirmation",
+          "name": "confirmation",
+          "value": "$confirmation",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Are you sure you want to choose this module?"
+            },
+            {
+              "lang": "en",
+              "value": "Are you sure with your selection?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your request have been forwarded to admin office, please wait for the confirmation mail from us in your university mailbox."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530530589,
+  "fallbackIntent": false,
+  "events": []
+}

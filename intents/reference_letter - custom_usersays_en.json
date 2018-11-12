@@ -1,0 +1,110 @@
+[
+  {
+    "id": "36a3529b-ae5e-4311-a1f7-bb59d69a642e",
+    "data": [
+      {
+        "text": "To ",
+        "userDefined": false
+      },
+      {
+        "text": "Rapid Kl",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530623229
+  },
+  {
+    "id": "01c41cfa-e4e1-494d-9c9f-688e26b0f278",
+    "data": [
+      {
+        "text": "To ",
+        "userDefined": false
+      },
+      {
+        "text": "Immigration services",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530623229
+  },
+  {
+    "id": "01149af1-25e6-4320-beba-4e70e95c0fbe",
+    "data": [
+      {
+        "text": "To ",
+        "userDefined": false
+      },
+      {
+        "text": "Maybank",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530623229
+  },
+  {
+    "id": "43cc58c2-8616-46d9-bd0e-45fb77b062d2",
+    "data": [
+      {
+        "text": "The letter is addressed to ",
+        "userDefined": false
+      },
+      {
+        "text": "Maybank",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530623229
+  },
+  {
+    "id": "d425c4c6-ab54-438a-b426-83f25f1003c1",
+    "data": [
+      {
+        "text": "The letter is addressed to ",
+        "userDefined": false
+      },
+      {
+        "text": "Immigration service",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530623229
+  },
+  {
+    "id": "45d94a96-7ce3-40ee-8816-b7023846b9f3",
+    "data": [
+      {
+        "text": "The letter is addressed to ",
+        "userDefined": false
+      },
+      {
+        "text": "RAPID KL",
+        "alias": "referencetype",
+        "meta": "@referencetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530623229
+  }
+]

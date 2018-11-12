@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c043f027-941c-4949-8edb-a5ff913e86bd",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "confirmation",
+        "meta": "@confirmation",
+        "userDefined": false
+      },
+      {
+        "text": " am ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "alias": "confirmation",
+        "meta": "@confirmation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550634
+  },
+  {
+    "id": "4ee21999-96ed-4ec7-8d55-baa3689a5e97",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "confirmation",
+        "meta": "@confirmation",
+        "userDefined": false
+      },
+      {
+        "text": " register please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550634
+  },
+  {
+    "id": "43174a07-6674-46ae-b83a-fbf8976979dd",
+    "data": [
+      {
+        "text": "register",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530550634
+  }
+]

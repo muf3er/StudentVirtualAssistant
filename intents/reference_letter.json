@@ -1,0 +1,57 @@
+{
+  "id": "3314e716-e43e-4e08-8956-d5db0ef6022e",
+  "name": "reference_letter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "letter-purpose",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c3f7d4d9-0346-4bbd-9249-94370567d22b",
+          "required": true,
+          "dataType": "@referencetype",
+          "name": "referencetype",
+          "value": "$referencetype",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me the purpose of this letter?"
+            },
+            {
+              "lang": "en",
+              "value": "What is the purpose of this letter?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Letter to be addressed to?",
+            "Who to be addressed to in the letter?",
+            "To be addressed to?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530622875,
+  "fallbackIntent": false,
+  "events": []
+}

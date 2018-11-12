@@ -1,0 +1,52 @@
+{
+  "id": "1dbfb346-06a7-47e0-aca8-e4fed1e31baa",
+  "name": "classtest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "classtest-register",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "43d69fb9-5d7c-490d-87f9-1345b9f1b7fc",
+          "required": true,
+          "dataType": "@Module_code",
+          "name": "Module_code",
+          "value": "$Module_code",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please type in your module code to check the next available date for your class test?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The next available date for the module is 21 August 2018. If you want to register, please type in \u0027register\u0027.",
+            "Oops! There are no available date for this module. You can contact your program leader for special arrangement of exam if in case you are currently facing visa issues or anything other."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530633731,
+  "fallbackIntent": false,
+  "events": []
+}
